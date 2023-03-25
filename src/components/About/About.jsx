@@ -8,6 +8,7 @@ import PhoneIcon from '@mui/icons-material/Phone';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import DescriptionIcon from '@mui/icons-material/Description';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
+import Introduction from "./Introduction";
 const About = () => {
   return (
     <>
@@ -87,6 +88,7 @@ const About = () => {
           </a>
         </div>
       </div>
+      <Introduction />
     </>
   );
 };
