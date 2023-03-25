@@ -9,6 +9,7 @@ import InstagramIcon from '@mui/icons-material/Instagram';
 import DescriptionIcon from '@mui/icons-material/Description';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import Introduction from "./Introduction";
+import Timeline from "./Timeline";
 const About = () => {
   return (
     <>
@@ -89,6 +90,7 @@ const About = () => {
         </div>
       </div>
       <Introduction />
+      <Timeline />
     </>
   );
 };
