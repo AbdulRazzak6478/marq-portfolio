@@ -11,7 +11,7 @@ const Header = () => {
     <>
       <header className={"header center " + themename}>
         <h3>
-          <a href="#home" className="link">
+          <a href="#home" className="">
            Abdul Razzak
           </a>
         </h3>
