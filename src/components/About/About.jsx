@@ -10,6 +10,7 @@ import DescriptionIcon from '@mui/icons-material/Description';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import Introduction from "./Introduction";
 import Timeline from "./Timeline";
+import Techstacks from "./Techstacks.jsx";
 const About = () => {
   return (
     <>
@@ -91,6 +92,9 @@ const About = () => {
       </div>
       <Introduction />
       <Timeline />
+      <section id="#skills">
+        <Techstacks />
+      </section>
     </>
   );
 };
