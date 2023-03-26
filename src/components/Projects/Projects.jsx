@@ -223,7 +223,7 @@ const Projects = () => {
               </div>
             </div>
             <div className="project_information" data-aos="fade-right">
-              <h2>XCrypto App</h2>
+              <h2>Crypto Currency</h2>
               <p>
               A Crypto coins website by using coins api to fetch amoung 13,200 coins and displaying its properties, graph charts in various time period in different currencies
               </p>
