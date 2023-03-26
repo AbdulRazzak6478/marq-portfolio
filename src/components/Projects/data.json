@@ -1,0 +1,48 @@
+{
+    "projects": [
+      {
+        "date": "07/10/2022",
+        "title": "Gymate - Ultimate Fitness Club",
+        "description": "A Responsive Exercises Webpage that provides users with a variety of exercises and visually demonstrating by GIF to help them to perform correctly. The website offers a wide range of exercises,as well as related media and equipments on how to get the most out of each exercise.",
+        "url": "https://benevolent-croissant-a9e3c8.netlify.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      },
+  
+      {
+        "date": "11/10/2022",
+        "title": "chatGPT-3 AI Bot",
+        "description": "Using an OpenAi Api to implement Ai-Powered chatbot.Which is powerful natural language processing engine to understand user input and provides an easy-to-use interface for creating and managing chatbot conversations",
+        "url": "https://react-chat-gpt-ai-app.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+      },
+      {
+        "date": "15/10/2022",
+        "title": "Google SEO ",
+        "description": "Responsive Google SEO clone similar to webpage that user can put query in the search Box and upon click search button will be able to see the search feed from the server based upon their query.",
+        "url": "https://react-google-search-app.netlify.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      },
+  
+      {
+        "date": "17/10/2022",
+        "title": "Youtube Clone",
+        "description": "Responsive Youtube Lite website using rapid api to set the Categories, search based results and video details with related Feeds.",
+        "url": "https://react-youtube-lite.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      },
+      {
+        "date": "20/10/2022",
+        "title": "XCrypto App",
+        "description": "A Crypto coins website by using coins api to fetch amoung 13,200 coins and displaying its properties, graph charts in various time period in different currencies",
+        "url": "https://react-home-abdulrazzak6478.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      },
+      {
+        "date": "20/10/2022",
+        "title": "Notes App",
+        "description": "Notes app which allow user to make notes by assigning its priority, and store the notes in local Storage with complete CRUD functionality.",
+        "url": "https://react-notes-app-gamma.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      }
+    ]
+  }
