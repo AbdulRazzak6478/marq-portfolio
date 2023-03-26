@@ -1,9 +1,22 @@
-import React from 'react'
+import React from "react";
+import "./Footer.css";
+import { ThemeContext } from "../../Context/theme";
 
 const Footer = () => {
-  return (
-    <div>Footer</div>
-  )
-}
+  const [{ themename }] = React.useContext(ThemeContext);
 
-export default Footer
+  return (
+    <>
+      <div className={"section " + themename}>
+        <a
+          href="https://github.com/imbickydutta"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3 className="footer">Made with ❤ By Abdul Razzak</h3>
+        </a>
+      </div>
+    </>
+  );
+};
+export default Footer;
