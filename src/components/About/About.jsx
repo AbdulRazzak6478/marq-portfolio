@@ -53,7 +53,7 @@ const About = () => {
             <PhoneIcon />
           </a>
           <a
-            href="https://www.linkedin.com/in/abdul-razzak-a808571b4/"
+            href="https://www.linkedin.com/in/mohammed-abdul-razzak-qureshi/"
             aria-label="github"
             className="link link--icon"
             target="_blank"
@@ -62,7 +62,8 @@ const About = () => {
             <LinkedInIcon />
           </a>
           <a
-            href="https://drive.google.com/file/d/1IBahA178010Uiu2Eq9tUbHV8NIR7ZR8P/view?usp=share_link"
+            // href="https://drive.google.com/file/d/1IBahA178010Uiu2Eq9tUbHV8NIR7ZR8P/view?usp=share_link"
+            href="https://drive.google.com/file/d/1dnildTg1KL4YBq8AObI8tu1QB4vtOA8D/view?usp=share_link"
             aria-label="github"
             className="link link--icon"
             target="_blank"
