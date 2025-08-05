@@ -44,7 +44,7 @@ const Contact = () => {
           >
             <BsInstagram className="twitter" />
           </a>
-          <a href="tel:+919515426478" target="_blank" rel="noreferrer">
+          <a href="#contact">
             <BsFillTelephoneFill className="phone" />
           </a>
         </div>

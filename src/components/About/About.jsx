@@ -20,7 +20,7 @@ const About = () => {
         </h1>
         <Type />
         <p className="about__desc" data-aos="fade-right">
-          A Front-End Developer who loves solving problems and building
+          A Software Developer who loves solving problems and building
           projects. I am equipped with a variety of technologies and tools to
           help me build the best possible product.
         </p>
@@ -43,7 +43,7 @@ const About = () => {
           >
             <EmailIcon />
           </a>
-          <a
+          {/* <a
             href="tel:+919515426478"
             target="_blank"
             rel="noreferrer"
@@ -51,7 +51,7 @@ const About = () => {
             className="link link--icon"
           >
             <PhoneIcon />
-          </a>
+          </a> */}
           <a
             href="https://www.linkedin.com/in/mohammed-abdul-razzak-qureshi/"
             aria-label="github"
@@ -63,7 +63,7 @@ const About = () => {
           </a>
           <a
             // href="https://drive.google.com/file/d/1IBahA178010Uiu2Eq9tUbHV8NIR7ZR8P/view?usp=share_link"
-            href="https://drive.google.com/file/d/1dnildTg1KL4YBq8AObI8tu1QB4vtOA8D/view?usp=share_link"
+            href="https://drive.google.com/file/d/18ZxXctQ0nGdFRaa4u7tGgUb5H7grZJVq/view?usp=sharing"
             aria-label="github"
             className="link link--icon"
             target="_blank"
@@ -80,7 +80,7 @@ const About = () => {
           >
             <InstagramIcon />
           </a>
-          <a
+          {/* <a
             href="https://goo.gl/maps/YxwajwoTW2EkPtw28"
             aria-label="github"
             className="link link--icon"
@@ -88,7 +88,7 @@ const About = () => {
             rel="noreferrer"
           >
             <LocationOnIcon />
-          </a>
+          </a> */}
         </div>
       </div>
       <Introduction />

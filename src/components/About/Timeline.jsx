@@ -31,6 +31,102 @@ const Timeline = () => {
           My <span className="different">Timeline 💫</span>
         </h2>
         <VerticalTimeline lineColor={linecolor}>
+
+          <VerticalTimelineElement
+            date={"October 2024 - Present 2025"}
+            contentStyle={{
+              boxShadow: `var(--shadow)`,
+              backgroundColor: `var(--clr-bg)`,
+              textAlign: "center",
+              color: `var(--clr-fg-alt)`,
+            }}
+            contentArrowStyle={{ borderRight: "16px solid  rgb(33, 150, 243)" }}
+            iconStyle={{
+              backgroundColor: `var(--clr-bg)`,
+              color: `var(--clr-primary)`,
+            }}
+            icon={<WorkIcon />}
+          >
+            <h3
+              className="vertical-timeline-element-title"
+              data-aos="fade-right"
+            >
+              Backend Developer
+            </h3>
+            <h4
+              className="vertical-timeline-element-subtitle"
+              data-aos="fade-right"
+            >
+              Company : Skygoal Innova Private Limited
+            </h4>
+            <p data-aos="fade-right">
+              Tech Stack : Node Js, React Js, MongoDB, PostgreSQL, Jest.
+            </p>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement
+            date={"June 2024 - September 2024"}
+            contentStyle={{
+              boxShadow: `var(--shadow)`,
+              backgroundColor: `var(--clr-bg)`,
+              textAlign: "center",
+              color: `var(--clr-fg-alt)`,
+            }}
+            contentArrowStyle={{ borderRight: "16px solid  rgb(33, 150, 243)" }}
+            iconStyle={{
+              backgroundColor: `var(--clr-bg)`,
+              color: `var(--clr-primary)`,
+            }}
+            icon={<WorkIcon />}
+          >
+            <h3
+              className="vertical-timeline-element-title"
+              data-aos="fade-right"
+            >
+              Software Developer Intern
+            </h3>
+            <h4
+              className="vertical-timeline-element-subtitle"
+              data-aos="fade-right"
+            >
+              Company : Skygoal Innova Private Limited
+            </h4>
+            <p data-aos="fade-right">
+              Tech Stack : Node Js, React Js, MongoDB.
+            </p>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement
+            date={"july 2023 - May 2024"}
+            contentStyle={{
+              boxShadow: `var(--shadow)`,
+              backgroundColor: `var(--clr-bg)`,
+              textAlign: "center",
+              color: `var(--clr-fg-alt)`,
+            }}
+            contentArrowStyle={{ borderRight: "16px solid  rgb(33, 150, 243)" }}
+            iconStyle={{
+              backgroundColor: `var(--clr-bg)`,
+              color: `var(--clr-primary)`,
+            }}
+            icon={<SchoolIcon />}
+          >
+            <h3
+              className="vertical-timeline-element-title"
+              data-aos="fade-right"
+            >
+              Student
+            </h3>
+            <h4
+              className="vertical-timeline-element-subtitle"
+              data-aos="fade-right"
+            >
+              Pursued Courses (AlgoCamp, Leetcode)
+            </h4>
+            <p data-aos="fade-right">
+              pursued additional learning through online platforms, courses in Backend Development and Data Structures & Algorithms.Actively practiced problem-solving on LeetCode and earned multiple online certifications.
+            </p>
+          </VerticalTimelineElement>
           <VerticalTimelineElement
             date={"june 2019 - july 2023"}
             contentStyle={{

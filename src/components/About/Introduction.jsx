@@ -25,8 +25,14 @@ const Introduction = () => {
               <h4>
                 Hi Everyone, I am{" "}
                 <span className="different">Mohammed Abdul Razzak Qureshi</span> from{" "}
-                <span className="different"> Malakpet, Hyderabad</span>. I am about to
-                complete my graduation in <span className="different">Computer Science & Engineering</span> in the year of 2023 from Deccan College of Engineering and technology affilated to Osmania University ,Hyderabad, Telangana State .
+                <span className="different"> Malakpet, Hyderabad</span>. 
+                Throughout my professional journey, I’ve actively worked on multiple 
+                <span className="different">real-world projects</span> 
+                that gave me exposure to both 
+                <span  className="different">frontend and backend technologies, databases, APIs, 
+                  and version control systems.</span> 
+                These experiences have helped me develop strong problem-solving skills, a collaborative mindset, 
+                and a deep interest in building scalable and user-centric software solutions.
               </h4>
               <h4>
                 Some of my interests apart form Coding :

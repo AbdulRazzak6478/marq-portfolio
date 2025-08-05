@@ -9,7 +9,8 @@ const Footer = () => {
     <>
       <div className={"section " + themename}>
         <a
-          href="https://github.com/imbickydutta"
+          // href="https://github.com/imbickydutta"
+          href="https://github.com/AbdulRazzak6478"
           rel="noreferrer"
           target="_blank"
         >
